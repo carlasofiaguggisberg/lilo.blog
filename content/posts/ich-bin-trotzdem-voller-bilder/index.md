@@ -3,7 +3,7 @@ title = "«Ich bin trotzdem voller Bilder»"
 date = "2024-02-26"
 draft = false
 pinned = false
-image = "alexander_wyssmann.komp.jpg"
+image = "alexander-wyy.jpg"
 +++
 {{<lead>}}
 
@@ -13,7 +13,7 @@ Ein Unfall nahm ihm mit 20 Jahren das Augenlicht. Der leidenschaftliche Jazzpian
 
 Elina Stähli, Carla Guggisberg
 
-![Alexander Wyssmann mit seinem treuen Begleiter Garrit. (Bild: Elina Stähli)](alexander_wyssmann.komp.jpg)
+![Alexander Wyssmann mit seinem treuen Begleiter Garrit. (Bild: Elina Stähli)](alexander-wyy.jpg)
 
 In einem Quartier, etwas ausserhalb der Stadt Bern, wohnt der 54- jährige Alexander Wyssmann. Bei einem Unfall in der Rekrutenschule verlor er sein Augenlicht. Seither ist er blind, lebt aber, wie er sagt, nicht in der Dunkelheit, sondern eher im Zwielicht. Nebst seiner Arbeit als Lehrer an der Blindenschule Zollikofen, spielt er leidenschaftlich Klavier. 
 
