@@ -36,16 +36,16 @@ Menschen mögen keine Veränderungen und als ich mit 20 Jahren erblindete, stand
 
 #### **Ihre Band heisst “twilight-trio”, wie sind Sie auf den Namen gekommen und was bedeutet er für Sie?**
 
-Ich kam auf die Idee, da die meisten Menschen denken, blinde Menschen leben in einer Dunkelheit und das ist nicht wahr. Man ist eher wie im Zwielicht. Das gab mir die Inspiration für unseren Band-namen. Mit zwei Kollegen trete ich nun unter dem Namen “twilight-trio” auf.\
+Ich kam auf die Idee, da die meisten Menschen denken, blinde Menschen leben in einer Dunkelheit und das ist nicht wahr. Man ist eher wie im Zwielicht. Das gab mir die Inspiration für unseren Bandnamen. Mit zwei Kollegen trete ich nun unter dem Namen “twilight-trio” auf.\
 Ich mag es ein Konzert zu spielen, wenn ich gut vorbereitet bin. Zuerst bin ich angespannt und voller Adrenalin. Aber nach einem geglückten Start, kann ich mit der Musik wie auf einer Welle surfen.
 
-#### **Wie sieht ein Arbeitsalltag von Ihnen aus?** 
+#### **Wie sieht ein Arbeitsalltag von Ihnen aus?**
 
-Momentan arbeite ich 65%, damit ich noch ein bisschen Zeit für die Musik habe. Ich stehe am Morgen früh auf, frühstücke und gehe mit meinem Hund auf das Tram. In der Blindenschule Zollikofen ange-kommen, unterrichte ich dann kleine Gruppen oder einzelne Kinder und Jugendliche. 
+Momentan arbeite ich 65%, damit ich noch ein bisschen Zeit für die Musik habe. Ich stehe am Morgen früh auf, frühstücke und gehe mit meinem Hund auf das Tram. In der Blindenschule Zollikofen angekommen, unterrichte ich dann kleine Gruppen oder einzelne Kinder und Jugendliche. 
 
 #### **Welche Hilfsmittel sind für Sie im Alltag besonders wichtig?**
 
-Wenn ich aus dem Haus gehe, nehme ich meistens mein Hund oder den Blindenstock mit. Heutzuta-ge sind mein Smartphone und das Tablet kaum mehr wegzudenken. Einige Apps, beispielsweise See-ing AI, sind sehr wichtig für mich und helfen mir im Alltag enorm.
+Wenn ich aus dem Haus gehe, nehme ich meistens mein Hund oder den Blindenstock mit. Heutzutage sind mein Smartphone und das Tablet kaum mehr wegzudenken. Einige Apps, beispielsweise Seeing AI, sind sehr wichtig für mich und helfen mir im Alltag enorm.
 
 #### **Was würden Sie sich von sehenden Menschen wünschen?**
 
