@@ -1,5 +1,5 @@
 +++
-title = "”Ich bin trotzdem voller Bilder”"
+title = "«Ich bin trotzdem voller Bilder»"
 date = "2024-02-26"
 draft = false
 pinned = false
@@ -17,8 +17,8 @@ Elina Stähli, Carla Guggisberg
 
 In einem Quartier, etwas ausserhalb der Stadt Bern, wohnt der 54- jährige Alexander Wyssmann. Bei einem Unfall in der Rekrutenschule verlor er sein Augenlicht. Seither ist er blind, lebt aber, wie er sagt, nicht in der Dunkelheit, sondern eher im Zwielicht. Nebst seiner Arbeit als Lehrer an der Blindenschule Zollikofen, spielt er leidenschaftlich Klavier. 
 
-**Wir haben im Museum das Zitat «Ich habe den Eindruck, dass ich gleich gut sehe wie frü-her, als ich noch mit den Augen sah – es sind einfach andere Kanäle, die ich nutze.» von Ihnen gelesen, können Sie uns erklären, was Sie damit meinen?**
-Das Sehen ist einfach einer von fünf Sinnen. Die meisten Menschen stellen sich vor, dass im Kopf dann ein Defizit herrscht, aber das ist nicht so. Man gewöhnt sich daran und der Kopf stellt sich um. Die Bilder, die zuvor durchs Sehen entstanden sind, bilden sich jetzt durch die anderen Sinne, welche zusammenarbeiten, und so nehme ich Dinge wahr. Viele denken, dass es einfach finster ist, aber das ist nicht so, ich bin voller Bilder. Ich träume immer noch mit Bildern, ich weiss aber, dass es sich ver-ändert hat. Also wenn ich träume, dann brauche ich auch dort Hilfsmittel, ich bin auch im Traum blind.
+**Wir haben im Museum das Zitat «Ich habe den Eindruck, dass ich gleich gut sehe wie früher, als ich noch mit den Augen sah – es sind einfach andere Kanäle, die ich nutze» von Ihnen gelesen, können Sie uns erklären, was Sie damit meinen?**
+Das Sehen ist einfach einer von fünf Sinnen. Die meisten Menschen stellen sich vor, dass im Kopf dann ein Defizit herrscht, aber das ist nicht so. Man gewöhnt sich daran und der Kopf stellt sich um. Die Bilder, die zuvor durchs Sehen entstanden sind, bilden sich jetzt durch die anderen Sinne und so nehme ich Dinge wahr. Viele denken, dass es einfach finster ist, aber das ist nicht so, ich bin voller Bilder. Ich träume immer noch mit Bildern, ich weiss aber, dass es sich verändert hat. Also wenn ich träume, dann brauche ich auch dort Hilfsmittel, ich bin auch im Traum blind.
 
 > 1. *«Ich hatte nie das Gefühl, ich hätte weniger Bilder im Kopf.*» *(Alexander Wyssmann)*
 
