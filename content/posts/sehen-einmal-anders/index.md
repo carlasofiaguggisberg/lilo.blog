@@ -7,7 +7,7 @@ image = "blindenmuseum_komp.jpg"
 +++
 {{<lead>}}
 
-«Anders sehen» auch wenn alles dunkel ist? Das ist in diesem einzigartigen Lernort möglich. Mitten in einem Wohnquartier in Zollikofen steht es seit 2020 im neuen Kleid: Das Schweizerische Blindenmuseum. Für einen Moment lässt man alle Farben hinter sich und versucht sich in der Dunkelheit zu orientieren. 
+«Anders sehen», auch wenn alles dunkel ist? Das ist in diesem einzigartigen Lernort möglich. Mitten in einem Wohnquartier in Zollikofen steht es seit 2020 im neuen Kleid: Das Schweizerische Blindenmuseum. Für einen Moment lässt man alle Farben hinter sich und versucht sich in der Dunkelheit zu orientieren. 
 
 {{</lead>}}
 
@@ -23,13 +23,13 @@ Ein kurzes Klicken, die Tür zum Museum öffnet sich. Ein Geruch schweift entgeg
 
 ![Das schlicht gehaltene Foyer des Blindenmuseums in Zollikofen. (Bild: Carla Guggisberg)](foyer.jpg)
 
-#### **Eine Welt im Zwielicht** 
+#### **Eine Welt im Zwielicht**
 
-Auf dem Bildschirm hinten links im Foyer, trifft auf einen Mann mit Hemd, Hut und Brille. Er verlor mit 20 Jahren bei einem Unfall in der Rekrutenschule sein Augenlicht. Sein Leben wurde von einem Tag auf den anderen auf den Kopf gestellt. Träume, Vorstellungen und Wünsche für die Zukunft musste er über Bord werfen. «Ich bin zusammengebrochen und alles in mir ist eingestürzt», erzählt der 54- jährige Alexander Wyssmann, während er genüsslich in eine Kaki beisst. Er musste nochmals neu beginnen. Alexander Wyssmann fühlte sich nicht mehr vollkommen, etwas fehlte ihm. In der ersten Zeit nach dem Unfall wurde er von Ängsten geplagt, fühlte sich hilflos und hatte Mühe sich zu orientieren. Es dauerte einen Moment, bis er sich selbst wieder akzeptieren und seinen Schicksalsschlag annehmen konnte. 
-Heute arbeitet Alexander Wyssmann an der Blindenschule in Zollikofen, ganz in der Nähe des Blindenmuseums. Seine eigenen Erfahrungen kann er bestens in seine Arbeit einfliessen lassen. Täglich betreut und fördert er mit Leidenschaft sehbeeinträchtigte oder blinde Kinder und Jugendliche. Im Alltag ist Alexander auf Hilfsmittel angewiesen, dabei spielt sein Blindenstock, Garrit sein Blindenhund und sein Handy eine grosse Rolle. Für ihn sind sie kaum mehr wegzudenken.
-Der dunkelblonde Musiker absolvierte später mit grosser Freude ein Klavierstudium an der Haute École de Musique in Lausanne. Im Jahr 2005 gründete er mit zwei Freunden die Band "twilight- trio“. Ein bewusst gewählter Name mit spezieller Bedeutung. «Denn viele Menschen glauben», erläutert Alexander, «als blinde Person lebt man im Dunkeln, aber das ist nicht so, man lebt eher im Zwielicht.» Mit seinen Bandmitgliedern spielt er selbstkomponierte Musik, gibt Konzerte und veröffentlicht eigene Alben. Er wählte das Genre Jazz aus, da ihm diesen Musikstil einen Rahmen vorgibt, indem er sich frei entfalten und bewegen kann. Die klassische Musik wäre ihm zu struktu-riert und zu eng. Sobald sich Alexander Wyssmann an sein Klavier setzt, tanzen seine Finger ge-schickt über die Klaviertasten und nichts könnte auf seine Blindheit hindeuten.
+Auf dem Bildschirm hinten links im Foyer, trifft man auf einen Mann mit Hemd, Hut und Brille. Er verlor mit 20 Jahren bei einem Unfall in der Rekrutenschule sein Augenlicht. Sein Leben wurde von einem Tag auf den anderen auf den Kopf gestellt. Träume, Vorstellungen und Wünsche für die Zukunft musste er über Bord werfen. «Ich bin zusammengebrochen und alles in mir ist eingestürzt», erzählt der 54- jährige Alexander Wyssmann, während er genüsslich in eine Kaki beisst. Er musste nochmals neu beginnen. Alexander Wyssmann fühlte sich nicht mehr vollkommen, etwas fehlte ihm. In der ersten Zeit nach dem Unfall wurde er von Ängsten geplagt, fühlte sich hilflos und hatte Mühe, sich zu orientieren. Es dauerte einen Moment, bis er sich selbst wieder akzeptieren und seinen Schicksalsschlag annehmen konnte. 
+Heute arbeitet Alexander Wyssmann an der Blindenschule in Zollikofen, ganz in der Nähe des Blindenmuseums. Seine eigenen Erfahrungen kann er bestens in seine Arbeit einfliessen lassen. Täglich betreut und fördert er mit Leidenschaft sehbeeinträchtigte oder blinde Kinder und Jugendliche. Im Alltag ist Alexander auf Hilfsmittel angewiesen, dabei spielen sein Blindenstock, Garrit, sein Blindenhund und sein Handy eine grosse Rolle. Für ihn sind sie kaum mehr wegzudenken.
+Der dunkelblonde Musiker absolvierte später mit grosser Freude ein Klavierstudium an der Haute École de Musique in Lausanne. Im Jahr 2005 gründete er mit zwei Freunden die Band "twilight- trio“. Ein bewusst gewählter Name mit spezieller Bedeutung. «Denn viele Menschen glauben», erläutert Alexander, «als blinde Person lebt man im Dunkeln, aber das ist nicht so, man lebt eher im Zwielicht.» Mit seinen Bandmitgliedern spielt er selbst komponierte Musik, gibt Konzerte und veröffentlicht eigene Alben. Er wählte das Genre Jazz aus, da ihm dieser Musikstil einen Rahmen vorgibt, indem er sich frei entfalten und bewegen kann. Die klassische Musik wäre ihm zu struktu-riert und zu eng. Sobald sich Alexander Wyssmann an sein Klavier setzt, tanzen seine Finger ge-schickt über die Klaviertasten und nichts könnte auf seine Blindheit hindeuten.
 
-> *«Blinde Menschen leben nicht, wie viele glauben in der Finsternis, sondern im Zwielicht.»* (Alexander Wyssmann)
+> *«Blinde Menschen leben nicht, wie viele glauben, in der Finsternis, sondern im Zwielicht.»* (Alexander Wyssmann)
 
 ![Alexander Wyssmann mit seinem treuen Begleiter Garrit. (Bild: Elina Stähli)](alexander_wyssmann.komp.jpg)
 
