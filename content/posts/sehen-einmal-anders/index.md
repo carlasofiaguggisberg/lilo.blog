@@ -51,4 +51,5 @@ Im November 2023 hat das Museum den «Prix de l’accessibilité» gewonnen und 
 ### **Berühren erlaubt**
 
 Der vierte und letzte Raum des Museums bietet Platz für viele eigene Erfahrungen. Hier kann man in die Entdeckungswelt eintauchen und eigene Sinneserfahrungen machen. Vertieft schreiben die Museumsbesuchenden auf Schreibmaschinen, versuchen den richtigen Duft zu erraten oder ertasten Gegenstände. Die Spezialbrillen, welche eine Sehbeeinträchtigung vortäuschen, beeindrucken und regen zum Nachdenken an. Wer sich mit einem Blindenstock und einer Augenbinde nach draussen wagt, merkt schnell wie schwierig es ist, die minimalen Unterschiede der Bodenbeschaffenheit wahrzunehmen. Gefühle von Hilflosigkeit und Unsicherheit machen sich breit. Sobald der Rundgang zu Ende ist und man wieder auf die weissen Leitlinien beim Museumseingang tritt, ist man um eine spannende Erfahrung reicher. 
+
 Die Museumsbesuchenden sind sich einig: Das Blindenmuseum ist ein Ort, den man nicht gesehen haben muss und trotzdem sehenswert ist.
