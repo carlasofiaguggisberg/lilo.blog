@@ -13,7 +13,7 @@ image = "blindenmuseum_komp.jpg"
 
 Elina Stähli, Carla Guggisberg
 
-![Von aussen kaum erkennbar – das Blindenmuseum in Zollikofen (Bild: Elina Stähli)](blindenmuseum_komp.jpg)
+![Von aussen kaum erkennbar – das Blindenmuseum in Zollikofen (Bild: Elina Stähli, Stand: 21.01.2024) )](blindenmuseum_komp.jpg)
 
 Rostbraun gefärbt, kaum Fenster, das moderne Gebäude passt nicht ins Bild. Im ersten Augenblick erinnert es eher an einen Lagerraum, eine Notunterkunft oder an einen Kindergarten. Doch wer einen Blick ins Innere des Gebäudes wirft, merkt bald, dass es sich um ein Museum handelt. Zwischen Wohnhäusern versteckt und umgeben von Bäumen und Wiese findet das Schweizerische Blindenmuseum in Zollikofen seinen Platz. Ein Museum etwas anderer Art: Teure Gemälde, Skulpturen oder Diamanten hinter Glaswänden sind nicht zu finden. Stattdessen gestaltet das Museum einen Ort, an dem Berühren erlaubt ist und Barrierefreiheit als Selbstverständlichkeit gilt. Nach dem Leitsatz «anders sehen», wird den Museumsbesuchenden das Thema Blindheit sichtbar gemacht und ein Verständnis für Menschen, die nicht oder nur eingeschränkt sehen können, vermittelt.
 
@@ -21,7 +21,7 @@ Rostbraun gefärbt, kaum Fenster, das moderne Gebäude passt nicht ins Bild. Im 
 
 Ein kurzes Klicken, die Tür zum Museum öffnet sich. Ein Geruch schweift entgegen, etwas süsslich, «so wie es in einem Museum halt riecht», beschreibt es der 10-jährige Andrin. Er ist einer der wenigen Museumsbesuchenden an diesem Sonntagnachmittag und lernt gerade, wie man mit einem Blindenstock umgeht. Mit einer Schlafmaske und einem etwas zu grossen Blindenstock tritt er auf die Leitlinien in der Eingangshalle. Den Blindenstock hin und her bewegend, folgt er den Linien bis zur Kasse. Die vier parallelen Striche am Boden weisen auf ein Objekt hin. Andrin hält an, zieht die Maske vom Gesicht und öffnet seine Augen. Eine Eingangshalle erscheint in Grau. Die Wände, die Kasse, die kleine Garderobe, alles in derselben Farbe. «Das schlichte Grau wurde bewusst gewählt, so können sich sehende Personen ein wenig in die Welt ohne Farben hineinversetzen», erklärt es eine Mitarbeiterin des Museums. Die Eingangshalle verbindet sogleich auch den ersten Raum des Museums. Auf grossen Bildschirmen erzählen sechs sehbehinderte Personen aus ihrem Leben.
 
-![Das schlicht gehaltene Foyer des Blindenmuseums in Zollikofen. (Bild: Carla Guggisberg)](foyer.jpg)
+![Das schlicht gehaltene Foyer des Blindenmuseums in Zollikofen. (Bild: Carla Guggisberg, Stand: 21.01.2024))](foyer.jpg)
 
 ### **Eine Welt im Zwielicht**
 
@@ -31,7 +31,7 @@ Der dunkelblonde Musiker absolvierte später mit grosser Freude ein Klavierstudi
 
 > *«Blinde Menschen leben nicht, wie viele glauben, in der Finsternis, sondern im Zwielicht.»* (Alexander Wyssmann)
 
-![Alexander Wyssmann mit seinem treuen Begleiter Garrit. (Bild: Elina Stähli)](alexander-wyy.jpg)
+![Alexander Wyssmann mit seinem treuen Begleiter Garrit. (Bild: Elina Stähli, Stand: 15.12.2023)](alexander-wyy.jpg)
 
 ### **Ohren auf**
 
